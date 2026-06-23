@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T19:27:14Z",
+  "project": "The Zeta Directive",
+  "cadence": "weekly",
+  "totals": {
+    "posted_words": 18544,
+    "manuscript_words": 13777,
+    "setting_words": 401040
+  },
+  "display": {
+    "posted": "19k",
+    "manuscript": "14k",
+    "setting": "401k"
+  },
+  "labels": {
+    "posted": "available now",
+    "manuscript": "manuscript",
+    "setting": "setting archive"
+  }
+}
